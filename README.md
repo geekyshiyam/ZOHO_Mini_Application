@@ -1,4 +1,4 @@
 # ZOHO_Mini_Application
 
-Admin Name: Shiyam
+Admin Name: Shiyam\n
 Admin Password: s
