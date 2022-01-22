@@ -2,7 +2,7 @@ import java.util.*;
 
 public class railway {
     static Scanner sc = new Scanner(System.in);
-    static String adminName = "shiyam", adminPass = "s";
+    static String adminName = "Shiyam", adminPass = "s";
     static int booking[][] = new int[5][7];
     static ArrayList<Waiting> Waitingl = new ArrayList<>();
     static ArrayList<Bookings> Books = new ArrayList<>();
@@ -10,7 +10,7 @@ public class railway {
     static int Index = -1;
 
     public static void welcome() {
-        Userl.add(new User("shiyam", "s", "UID00"));
+        Userl.add(new User("Shiyam", "s", "UID00"));
         clearScreen();
         boolean flag = true;
         System.out.println("\t\t-Welcome to Indian Railways-\n");
